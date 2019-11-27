@@ -64,10 +64,6 @@ body,html {
 	box-shadow: 0 0 1em #fff;
 }
 
-.highlight.img {
-
-}
-
 .hugeimage {
 	height: 100px;
 	transform: scale(1.6);
